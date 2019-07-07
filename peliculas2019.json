@@ -184,6 +184,18 @@
   "img" : "https://image.tmdb.org/t/p/w154/guZ4xgDQTd2hyinwetHchpm5Oyc.jpg",
   "pg" : "https://www1159.hlsmp4.com/token=5t6wRXAadl_mrSWHQ5YO7A/1562486645/0.0.0.0/46/d/ac/2b90d4ca7abee7ce72460c9d5c45dacd-480p.mp4"
   }
+  ,
+    
 
+  "AndarMontarRodeo" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "AndarMontarRodeo",
+  "title":"Andar Montar Rodeo (2019)",
+  "img" : "https://image.tmdb.org/t/p/w154/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg",
+  "pg" : "https://www346.hlsmp4.com/token=SXYIyPKzLcZozl30SuFHEQ/1562487369/0.0.0.0/37/7/51/2d23cd76ff47eff04bd4fb59f128c517-480p.mp4"
+  }
     
 }
+
+

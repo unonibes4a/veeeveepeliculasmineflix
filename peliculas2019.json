@@ -176,13 +176,13 @@
   ,
     
 
-  "Cargo2" : {
+  "Adosti" : {
     "vid":"1",
     "id" : "id11",
-  "idname" : "Cargo2",
-  "title":"Cargo 2019",
-  "img" : "img/pelis/cargo.jpg",
-  "pg" : "https://www1917.hlsmp4.com/token=CQvzqWU97vJOEEenteO_Dg/1562481415/0.0.0.0/53/8/3a/347d23dd743867cec4db2ef5cce053a8-480p.mp4"
+  "idname" : "Adosti",
+  "title":"A dos metros  de ti",
+  "img" : "https://image.tmdb.org/t/p/w154/guZ4xgDQTd2hyinwetHchpm5Oyc.jpg",
+  "pg" : "https://www1159.hlsmp4.com/token=5t6wRXAadl_mrSWHQ5YO7A/1562486645/0.0.0.0/46/d/ac/2b90d4ca7abee7ce72460c9d5c45dacd-480p.mp4"
   }
 
     

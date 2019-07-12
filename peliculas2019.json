@@ -1,6 +1,17 @@
 {
 
 
+  "Alita" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Alita",
+  "title":"Alita (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/7d0cc18adbb7676ad2987f8f188a7c87.jpg",
+  "pg" : "https://drive.google.com/file/d/1xUDRnHyp3QxO4fW0nzlYdGc55t3NI57d/preview?authuser=0"
+  }
+
+
+  ,
 
   "RetratoDeUnAsesino" : {
     "vid":"1",

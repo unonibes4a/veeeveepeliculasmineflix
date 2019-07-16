@@ -437,6 +437,16 @@ z-index: 101;
 text-align: center;
 }
 
+
+#idimepautas{
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  z-index: 121;
+}
+
 </style>  <script src="jquery-3.2.1.min.js" ></script>
 </head>
 <body onresize="fonresize();" onload="fonload();">
@@ -448,7 +458,7 @@ text-align: center;
 
 
 <script>
-document.getElementById("idmensajep").innerHTML="Nueva pelicula Alita 2019 <br>Compartir la app con tus amigos y familiares por favor";
+document.getElementById("idmensajep").innerHTML="Compartir la app con tus amigos y familiares por favor <br>Nueva pelicula Annabelle 3 spiderman home, strenger things temporada 3";
 setTimeout(function(){
 
   document.getElementById("idmensajep").style.display="none";
@@ -456,9 +466,65 @@ setTimeout(function(){
 },7000);
 
 
+function traejsonimgpautas1(){
+
+$.ajax({              
+           url:   'pautasimg1.json',
+            dataType:  'json',
+           type:  'get',
+           cache:false,
+           success:  function (data) {
+       
+       
+            for(var i in data){
+            //  arraylibros.push({id:data[i].id,idname:data[i].idname,img:data[i].img,pg:data[i].pg,title:data[i].title})
+   
+             document.getElementById("idimepautas").src=data[i].pg;
+            }
+
+
+console.log(123);
+console.log(data);
+        
+  //	traejsonseries2019();
+
+
+
+
+           }
+   });
+
+
+   setTimeout(function(){
+
+document.getElementById("idimepautas").style.display="none";
+
+},4000);
+
+
+
+}
+
+
+
+
+
+traejsonimgpautas1();
+
+
+
+
 </script>
-  
+  <img  id="idimepautas" src="img/pauta1.jpg" alt="">
+
+
+
+
+
     <div id="idtodoelmundo">
+
+        
+
       <div id="idcargando">CArgando.. <br>si  se demora revice conceccion internet</div>
             <div id="idcajas1">
 
@@ -594,6 +660,14 @@ setTimeout(function(){
 
 <button id="idabremenu1a"  onclick="openNav()" class="clbtabrmemenu1">&#9776;</button>
 <script>
+
+
+
+
+
+
+
+
 function openNav() {
   fvermenunave();
 

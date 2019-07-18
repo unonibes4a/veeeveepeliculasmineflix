@@ -1,6 +1,19 @@
 {
 
 
+
+  "Pikachu" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Pikachu",
+  "title":"Pokémon: Detective Pikachu (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/c195f19adc58d309f90321f38592f789.jpg",
+  "pg" : "https://drive.google.com/file/d/1ll6vjQBHTJGozia-z1xHurj2TkZoD0Cl/preview?authuser=0"
+  }
+
+
+  ,
+
   "Alita" : {
     "vid":"1",
     "id" : "id11",

@@ -1129,6 +1129,62 @@
 
 
 
+  ,
+  "howtoelldrugsonline" : {
+    "id":"id7",
+    "idname":"howtoelldrugsonline",
+    "title":"how to sell drugs online",
+    "pg":"img/series/howtoelldrugsonline.jpg",
+    "t1" : {
+
+      "id":"id0",
+      "idname":"t1",
+      "title":"Temporada 1",
+      "v1" : {
+        "id" : "id0",
+        "idname" : "v1",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1V23YpsByl2pSu07LeDy_WSNjx4thTHZn/preview?authuser=0"
+      },
+      "v2" : {
+        "id" : "id1",
+        "idname" : "v2",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1iHErvlfgqKOmDGOsSChK27hTS0qAyYJT/preview?authuser=0"
+      },
+      "v3" : {
+        "id" : "id2",
+        "idname" : "v3",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1ojYLyj8AKRg7R9-upoupEi1IGdcWZrY3/preview?authuser=0"
+      }
+
+
+      ,
+      "v4" : {
+        "id" : "id2",
+        "idname" : "v4",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1G0IEVeBYFv7xjHAoWmy-lwAq8Nk3Q7oh/preview?authuser=0"
+      }
+      ,
+      "v5" : {
+        "id" : "id2",
+        "idname" : "v5",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1Y1s7MxdRUa0ct1Nhg8OkUdSwrxv3UXd2/preview?authuser=0"
+      },
+      "v6" : {
+        "id" : "id2",
+        "idname" : "v6",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1oygp1MVpzu8vImpIzqREE__mgJ4KXJS3/preview?authuser=0"
+      }
+     
+
+    }
+    
+  }
 
 
 

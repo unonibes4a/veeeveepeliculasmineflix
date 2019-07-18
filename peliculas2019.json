@@ -1,5 +1,19 @@
 {
 
+
+  "IOSola" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "IOSola",
+  "title":"IO Sola en la Tierra(2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/1b4e1b36941af0f2eed39ea304d24777.jpg",
+  "pg" : "https://drive.google.com/file/d/11LVOixyQdq80LcQ-R58VLBr32YG8AmBS/preview?authuser=0"
+  }
+
+
+  ,
+
+
   "Nosotros" : {
     "vid":"1",
     "id" : "id11",

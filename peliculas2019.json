@@ -1,5 +1,22 @@
 {
 
+  "Nosotros" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Nosotros",
+  "title":"Nosotros (2019)",
+  "img" : "https://image.tmdb.org/t/p/w185/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
+  "pg" : "https://drive.google.com/file/d/10VuEj3N1bzKfKjNEioUb67dC3K8tzJ1y/preview?authuser=0"
+  }
+
+
+  ,
+
+
+
+
+
+
   "Shaft" : {
     "vid":"1",
     "id" : "id11",

@@ -635,9 +635,18 @@
 "pg" : "https://drive.google.com/file/d/183FQbRoie4IkYIk1egD8K-r1OPxTTMyf/preview?authuser=0"
 }
 
+,
+
+"partidos" : {
+  "vid":"1",
+  "id" : "id11",
+"idname" : "partidos",
+"title":"partidos (2019)",
+"img" : "https://static.pelisplus.co/movie/cover/original/3c1f7ef77ccc93e4280a5aad8d14c305.jpg",
+"pg" : "https://www.youtube.com/embed/9_KqyuL1Q-k"
+}
 
 
- 
 
 
 

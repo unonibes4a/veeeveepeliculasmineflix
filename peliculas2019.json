@@ -25,6 +25,22 @@
 
 
 
+  "Glass" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Glass",
+  "title":"Glass (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/310f20a72cf82abecd1606aa0c5aa26f.jpg",
+  "pg" : "https://drive.google.com/file/d/1cN0IwGeqwfsGAeTYySu_v-lFgpFocZmw/preview"
+  }
+  ,
+
+
+
+
+
+
+
   "NoMires" : {
     "vid":"1",
     "id" : "id11",

@@ -1,4 +1,5 @@
 {
+  
 
 
   "nacion" : {
@@ -24,7 +25,17 @@
 
 
   ,
-  
+  "nientussueno" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "nientussueno",
+  "title":"Ni en tussueños (2019)",
+  "img" : "https://image.tmdb.org/t/p/w300/2iS6IegyzlZdN6meG3yNbNBvMDV.jpg",
+  "pg" : "https://drive.google.com/file/d/12he5siJFmPYof28nrsbNhv7VNr3RWUyQ/preview?authuser=0"
+  }
+
+
+  ,
   
   "Paddleton" : {
     "vid":"1",

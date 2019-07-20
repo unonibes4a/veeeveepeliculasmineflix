@@ -13,6 +13,18 @@
 
 
 
+  "AQuiénte" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "AQuiénte",
+  "title":"¿A Quién te Llevarías a una Isla Desierta? (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/9aed8f465af1bfb6f43eae87ac089f90.jpg",
+  "pg" : "https://drive.google.com/file/d/1ao8XEJK0hgQEtOBQOevyiJiItC9uhHq6/preview"
+  }
+  ,
+
+
+
   "NoMires" : {
     "vid":"1",
     "id" : "id11",
@@ -23,6 +35,37 @@
   }
   ,
 
+
+
+
+
+  "DangerOne" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "DangerOne",
+  "title":"Danger One (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/eb45a99bc86172ed4ba10889a509c2e5.jpg",
+  "pg" : "https://drive.google.com/file/d/1wxHd_t_TLcNBa3QQPw_c8b4-B68FeG0b/preview"
+  }
+  ,
+
+
+
+
+
+  "Belzebuth" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Belzebuth",
+  "title":"Belzebuth (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/b4143a9a5b28ddabe68ed9137b770c96.jpg",
+  "pg" : "https://drive.google.com/file/d/1wxHd_t_TLcNBa3QQPw_c8b4-B68FeG0b/preview"
+  }
+  ,
+
+
+
+  
 
 
 

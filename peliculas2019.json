@@ -1,6 +1,17 @@
 {
 
 
+  "nacion" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "nacion",
+  "title":"Rey leon  (2019)",
+  "img" : "https://image.tmdb.org/t/p/w185/wB24P3QGGoAkEyBzTEb5s4lFY7N.jpg",
+  "pg" : "https://drive.google.com/file/d/1MQYsnGfGoB2lD5dCnFvOABaA4jfssWI4/preview?authuser=0"
+  }
+
+
+  ,
 
   "reyleon" : {
     "vid":"1",
@@ -13,7 +24,7 @@
 
 
   ,
-
+  
   
   "Paddleton" : {
     "vid":"1",

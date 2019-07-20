@@ -48,7 +48,7 @@
   "idname" : "ElBuenSam",
   "title":"El Buen Sam  (2019)",
   "img" : "https://static.pelisplus.co/movie/cover/original/c66539ccb307143560d6027fcba760ed.jpg",
-  "pg" : "https://drive.google.com/file/d/1z-nCNq80OAJ31UgwX32t2p02a_yZhq2j/preview?usp=sharing"
+  "pg" : "https://drive.google.com/file/d/1z-nCNq80OAJ31UgwX32t2p02a_yZhq2j/preview"
   }
 
 
@@ -82,6 +82,17 @@
   ,
 
 
+  "ellosquieren" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "ellosquieren",
+  "title":"Lo que ellos quieren (2019)",
+  "img" : "http://pelisplus.co/pelicula/lo-que-ellos-quieren/",
+  "pg" : "https://drive.google.com/file/d/16JEh0e0EL9MeNiK1-kAAIN9lpKGfdVAT/preview"
+  }
+
+
+  ,
 
 
 

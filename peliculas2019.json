@@ -11,6 +11,24 @@
 
   ,
 
+
+
+
+  "NoMires" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "NoMires",
+  "title":"No Mires (2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/f119f938970b2880ea12f7e1720b051e.jpg",
+  "pg" : "https://drive.google.com/file/d/1ao8XEJK0hgQEtOBQOevyiJiItC9uhHq6/preview"
+  }
+  ,
+
+
+
+
+
+
   "Lacitaperfecta" : {
     "vid":"1",
     "id" : "id11",

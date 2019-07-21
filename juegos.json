@@ -1,4 +1,16 @@
 {
+
+
+  
+  "GunMasters" : {
+    "id" : "id0",
+  "idname" : "GunMasters",
+  "title":"Gun Masters <br> Android PC",
+  "img" : "https://image.yaksgames.com/v2/game/b/9/9/b9904fba87ea80f1a5f7131cbccc4e89.jpg?w=200",
+  "pg" : "https://html5.gamedistribution.com/b1e45b2a3bd44e77ba960486d07e4422/"
+  },
+
+  
   "bubbleshooter" : {
       "id" : "id0",
     "idname" : "bubbleshooter",

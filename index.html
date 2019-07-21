@@ -458,12 +458,7 @@ text-align: center;
 
 
 <script>
-document.getElementById("idmensajep").innerHTML="Compartir la app con tus amigos y familiares por favor <br>nueva serie de  netflix La casa de  papel T3 <br> y mas peliculas de  netflix";
-setTimeout(function(){
 
-  document.getElementById("idmensajep").style.display="none";
-
-},7000);
 
 
 function traejsonimgpautas1(){
@@ -483,9 +478,7 @@ $.ajax({
             }
 
 
-console.log(123);
-console.log(data);
-        
+
   //	traejsonseries2019();
 
 
@@ -509,6 +502,52 @@ document.getElementById("idimepautas").style.display="none";
 
 
 
+
+function traejsonmsnactualizacion(){
+
+$.ajax({              
+           url:   'msnactualizacion.json',
+            dataType:  'json',
+           type:  'get',
+           cache:false,
+           success:  function (data) {
+       
+       
+            for(var i in data){
+            //  arraylibros.push({id:data[i].id,idname:data[i].idname,img:data[i].img,pg:data[i].pg,title:data[i].title})
+   
+         
+             document.getElementById("idmensajep").innerHTML=data[i].pg;
+
+            }
+
+
+
+        
+  //	traejsonseries2019();
+setTimeout(function(){
+
+  document.getElementById("idmensajep").style.display="none";
+
+},7000);
+
+
+
+           }
+   });
+
+
+   setTimeout(function(){
+
+document.getElementById("idimepautas").style.display="none";
+
+},4000);
+
+
+
+}
+
+traejsonmsnactualizacion();
 traejsonimgpautas1();
 
 

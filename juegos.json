@@ -94,11 +94,11 @@
     "pg" : "https://games.poki.com/869100/gswitch3"
     }
  
-,    "ya" : {
+,    "ElementBlocks" : {
   "id" : "id9",
-"idname" : "ya",
-"title":"Gswitch3<br> Android  PC",
-"img" : "img/imgjuegos/gswitch3.jpg",
+"idname" : "ElementBlocks",
+"title":"Element Blocks<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ElementBlocksTeaser.jpg",
 "pg" : "https://games.cdn.famobi.com/html5games/e/element-blocks/v130/?fg_domain=play.famobi.com&fg_aid=A-E0Z95&fg_uid=8c70b6c7-5792-4c40-b891-496eef2fb5ed&fg_pid=fc42dad1-8028-48fc-822c-28219177457e&fg_beat=057&original_ref=https%3A%2F%2Fplay.famobi.com%2Felement-blocks%2FA-E0Z95"
 }
 

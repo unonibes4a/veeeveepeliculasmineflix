@@ -248,14 +248,7 @@
 
 
 ,
-"SoccerHeads" : {
-  "id" : "id9",
-"idname" : "SoccerHeads",
-"title":"Soccer Heads <br>  Android > 4  PC",
-"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SoccerHeadsTeaser.jpg",
-"pg" : "https://games.cdn.famobi.com/html5games/s/soccer-heads/v310/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=6fb4a624-f2a2-4136-bc84-3290ca582156&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=109&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fsoccer-heads%3Ftechnology%3Dweb"
-}
-,
+
 "ZooBoom" : {
   "id" : "id9",
 "idname" : "ZooBoom",
@@ -263,5 +256,8 @@
 "img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ZooBoomTeaser.jpg",
 "pg" : "https://games.cdn.famobi.com/html5games/z/zoo-boom/v160/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=109&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fzoo-boom%3Ftechnology%3Dweb"
 }
+
+
+
 }
 

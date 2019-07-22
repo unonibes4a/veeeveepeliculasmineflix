@@ -159,6 +159,23 @@
 }
 
 
+,
+"MahjongClassic" : {
+  "id" : "id9",
+"idname" : "MahjongClassic",
+"title":"Mahjong Classic <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MahjongClassicTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/m/mahjong-classic/v390/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a66e3ed1-52f6-4f12-b1c8-014320eaf150&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=083&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fmahjong-classic%3Ftechnology%3Dweb"
+}
+
+,
+"JigsawPuzzleDeluxe" : {
+  "id" : "id9",
+"idname" : "JigsawPuzzleDeluxe",
+"title":"Jigsaw Puzzle Deluxe <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MahjongClassicTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/j/jigsaw-puzzle-deluxe/v280/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50bb00b6-7151-4279-90c9-5b202e6ba691&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=088&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fjigsaw-puzzle-deluxe%3Ftechnology%3Dweb"
+}
 
 }
 

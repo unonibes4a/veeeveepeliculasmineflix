@@ -179,5 +179,29 @@
 }
 
 
+
+
+,
+"Outcome" : {
+  "id" : "id9",
+"idname" : "Outcome",
+"title":"Outcome <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=097&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Foutcome%3Ftechnology%3Dweb"
+}
+
+
+
+,
+"TheGreenMission" : {
+  "id" : "id9",
+"idname" : "TheGreenMission",
+"title":"The Green Mission <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TheGreenMissionTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/the/the-green-mission/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b3b53d7d-de86-4709-91af-01f47b0ca073&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=098&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fthe-green-mission%3Ftechnology%3Dweb"
+}
+
+
+
 }
 

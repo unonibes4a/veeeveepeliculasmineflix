@@ -92,6 +92,33 @@
 
 
 ,
+
+
+"Snowballc" : {
+  "id" : "id9",
+"idname" : "Snowballc",
+"title":"Snowball Christmas World <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BananaRun_Teaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/s/snowball-christmas-world/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=4c782c1f-e602-4913-8320-6985da116cf0&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=095&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fsnowball-christmas-world%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+
+"MafiaPoker" : {
+  "id" : "id9",
+"idname" : "MafiaPoker",
+"title":"Mafia Poker <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MafiaPokerTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/m/mafia-poker/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8900d831-7ff7-478a-a4bb-5d811178c0b8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=096&original_ref=https%3A%2F%2Fgames.famobi.com%2Fcasino%2Fmafia-poker%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
 "BlackjackBet" : {
   "id" : "id9",
 "idname" : "BlackjackBet",

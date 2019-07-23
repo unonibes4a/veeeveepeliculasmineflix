@@ -60,13 +60,6 @@
   ,
 
 
-    "cuttherope2" : {
-      "id" : "id1",
-    "idname" : "cuttherope2",
-    "title":"Cut the rope 2 <br> Android PC",
-    "img" : "img/imgjuegos/cuttherope2.jpg",
-    "pg" : "https://play.gamepix.com/cut-the-rope-2/embed?api=2&sid=90269&utm_source=direct&referer=undefined&utm_medium=publisherV2&rgx=1&gpxref=direct"
-    },
 
  
 
@@ -76,16 +69,7 @@
     "title":"Minecraft <br> para  PC",
     "img" : "img/imgjuegos/minecraft.jpg",
     "pg" : "https://classic.minecraft.net/"
-    },
-    "hexpuzzle" : {
-      "id" : "id4",
-    "idname" : "hexpuzzle",
-    "title":"hexpuzzle <br> Android PC",
-    "img" : "img/imgjuegos/hexpuzzle.jpg",
-    "pg" : "https://play.famobi.com/hex-puzzle/A-TC5AK"
     }
-
-    
     
 
  

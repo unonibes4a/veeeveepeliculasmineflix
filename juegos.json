@@ -99,39 +99,7 @@
 
     
     
-    ,
-    "impossibledashonline" : {
-      "id" : "id8",
-    "idname" : "impossibledashonline",
-    "title":"Impossible dashon line <br> Android  PC",
-    "img" : "img/imgjuegos/impossibledashonline.jpg",
-    "pg" : "http://html5.iclouds.io/impossible-dash-online/"
-    }
-    ,
-    "tankwars" : {
-      "id" : "id9",
-    "idname" : "tankwars",
-    "title":"Tank wars<br> Android  PC",
-    "img" : "img/imgjuegos/tankwars.jpg",
-    "pg" : "http://html5.iclouds.io/tank-wars/"
-    }
- 
-    ,
-    "neonhockey" : {
-      "id" : "id9",
-    "idname" : "neonhockey",
-    "title":"Neon hockey<br> Android  PC",
-    "img" : "img/imgjuegos/neonhockey.jpg",
-    "pg" : "http://html5.iclouds.io/neon-hockey/"
-    }
-    ,
-    "gswitch3" : {
-      "id" : "id9",
-    "idname" : "gswitch3",
-    "title":"Gswitch3<br> Android  PC",
-    "img" : "img/imgjuegos/gswitch3.jpg",
-    "pg" : "https://games.poki.com/869100/gswitch3"
-    }
+
  
 ,    "ElementBlocks" : {
   "id" : "id9",

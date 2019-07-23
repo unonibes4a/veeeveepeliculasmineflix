@@ -29,9 +29,65 @@
 }
 
 
+,
+
+
+"GreedyRabbit" : {
+  "id" : "id9",
+"idname" : "GreedyRabbit",
+"title":"Greedy Rabbit <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/GreedyRabbitTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/g/greedy-rabbit/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b66a91a6-5814-4a1a-acde-45366df8934a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=083&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fgreedy-rabbit%3Ftechnology%3Dweb"
+}
+
+
+,
 
 
 
+
+
+
+"SweetsMonster" : {
+  "id" : "id9",
+"idname" : "SweetsMonster",
+"title":"Sweets Monster <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SweetsMonsterTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/s/sweets-monster/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=4984c2a0-8b7f-4d6d-a988-532f77e9555e&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=087&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fsweets-monster%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+
+"NutRush3" : {
+  "id" : "id9",
+"idname" : "NutRush3",
+"title":"Nut Rush 3 - Snow Scramble <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/NutRush3ChristmasTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/n/nut-rush3/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=10133424-462b-43fe-8c81-f110767642d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=088&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fnut-rush3%3Ftechnology%3Dweb"
+}
+
+
+,
+"Key&Shield" : {
+  "id" : "id9",
+"idname" : "Key&Shield",
+"title":"Key & Shield <br>  Android > 4  PC",
+"img" : "https://games.famobi.com/platform?technology=web",
+"pg" : "https://games.cdn.famobi.com/html5games/k/key-and-shield/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f59167b9-83e3-4257-beb0-e1b0583a299d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=091&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fkey-and-shield%3Ftechnology%3Dweb"
+}
+
+
+,
+"BlackjackBet" : {
+  "id" : "id9",
+"idname" : "BlackjackBet",
+"title":"Blackjack Bet <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BlackJackBetTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/b/blackjack-bet/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c95f66f9-7cca-4adf-8248-22b29c76728d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=085&original_ref=https%3A%2F%2Fgames.famobi.com%2Fcasino%2Fblackjack-bet%3Ftechnology%3Dweb"
+}
 
 
 

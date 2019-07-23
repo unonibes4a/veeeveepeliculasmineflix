@@ -81,6 +81,17 @@
 
 
 ,
+
+"BananaRun" : {
+  "id" : "id9",
+"idname" : "BananaRun",
+"title":"Banana Run <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BananaRun_Teaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/b/banana-run/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fba55fc0-407a-4ce9-9c07-bcd3045a3df7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=093&original_ref=https%3A%2F%2Fgames.famobi.com%2Fplatform%2Fbanana-run%3Ftechnology%3Dweb"
+}
+
+
+,
 "BlackjackBet" : {
   "id" : "id9",
 "idname" : "BlackjackBet",

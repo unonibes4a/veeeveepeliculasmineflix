@@ -40,7 +40,16 @@
 
 ,
 
+"kuli" : {
+  "id" : "id9",
+"idname" : "kuli",
+"title":"K.U.L.I. <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/KULITeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/k/kuli/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9ab9477d-a87c-4e98-aefc-5e23e13bf4b3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=103&original_ref=https%3A%2F%2Fgames.famobi.com%2Faction%2Fkuli%3Ftechnology%3Dweb"
+}
 
+
+,
 "GreedyRabbit" : {
   "id" : "id9",
 "idname" : "GreedyRabbit",

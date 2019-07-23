@@ -98,22 +98,7 @@
     }
 
     
-    ,
-    "ball" : {
-      "id" : "id6",
-    "idname" : "ball",
-    "title":"Ball <br> Android 7 PC",
-    "img" : "img/imgjuegos/ball.jpg",
-    "pg" : "https://html5.gamedistribution.com/2733d5951e04400a8ed857818635e670/"
-    }
-    ,
-    "crazyjump" : {
-      "id" : "id7",
-    "idname" : "crazyjump",
-    "title":"Crazyjump <br> Android 7 PC",
-    "img" : "img/imgjuegos/crazyjump.jpg",
-    "pg" : "html5.iclouds.io/crazy_jump/"
-    }
+    
     ,
     "impossibledashonline" : {
       "id" : "id8",

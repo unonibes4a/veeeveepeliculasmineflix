@@ -3,6 +3,8 @@
 
 
 
+
+
   "casadepapel" : {
     "id":"id7",
     "idname":"casadepapel",
@@ -122,6 +124,100 @@
 ,
 
 
+
+"TheSociety" : {
+  "id":"id7",
+  "idname":"TheSociety",
+  "title":"The Society",
+  "pg":"https://static.pelisplus.co/serie/cover/original/637cd25606f13dc2dd696ba0af5a6344.jpg",
+  "t1" : {
+
+    "id":"id0",
+    "idname":"t1",
+    "title":"Temporada 1",
+    "v1" : {
+      "id" : "id0",
+      "idname" : "v1",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1b9mAmUgQLQnCqBkJuYMEW0MczGBz2CsB/preview?authuser=0"
+    },
+    "v2" : {
+      "id" : "id1",
+      "idname" : "v2",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1Hws61l44KhkqafLMo863pPJYKJDzDBzr/preview?authuser=0"
+    },
+    "v3" : {
+      "id" : "id2",
+      "idname" : "v3",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1td6Gv6Jv4KWnhac4ATAIc5BYsdzhbq6a/preview?authuser=0"
+    }
+    ,
+    "v4" : {
+      "id" : "id2",
+      "idname" : "v4",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/12QOvypgV-7-J-6ydzHpDQIxfjaWQmFCs/preview?authuser=0"
+    }
+    
+    ,
+    "v5" : {
+      "id" : "id2",
+      "idname" : "v5",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1vnYZw9ItYpXcKXEuUmrsSlqe54JOTw2I/preview?authuser=0"
+    }
+    ,
+    "v6" : {
+      "id" : "id2",
+      "idname" : "v6",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1hcaMOsnwYJa_OHJTURyQ4SwPqTJif7jq/preview?authuser=0"
+    }
+    ,
+    "v7" : {
+      "id" : "id2",
+      "idname" : "v7",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1eQ_hIQqlLyVvos8DD1CfATPbAzeJw0Km/preview?authuser=0"
+    }
+    ,
+    "v8" : {
+      "id" : "id2",
+      "idname" : "v8",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1TEQqM0bJwwuywp_bwfyuxCxvJdOE7cVN/preview?authuser=0"
+    }
+    ,
+    "v9" : {
+      "id" : "id2",
+      "idname" : "v9",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1W1mi8dcVw_emzl65wRS_DcSiXi5Q_VSt/preview?authuser=0"
+    }
+    ,
+    
+    "v10" : {
+      "id" : "id2",
+      "idname" : "v10",
+      "img" : "",
+      "pg" : "https://drive.google.com/file/d/1IsEoNzKwd7qcoLjm12GnasUM363iZV0s/preview?authuser=0"
+    }
+    
+
+  }
+  
+}
+
+
+
+
+
+
+
+
+,
 
   "howtoelldrugsonline" : {
     "id":"id7",

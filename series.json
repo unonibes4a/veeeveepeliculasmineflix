@@ -135,9 +135,22 @@
         "id" : "id2",
         "idname" : "v8",
         "img" : "",
-        "pg" : "https://drive.google.com/file/d/1ewqV6teRDRk82w3Wyz-XvkcXmbezRV9g/preview?authuser=0"
+        "pg" : "https://drive.google.com/file/d/1xSNVwkajGTVdN1eXDI6CljHkkLqwjB-c/preview?authuser=0"
       }
-      
+         ,
+      "v9" : {
+        "id" : "id2",
+        "idname" : "v9",
+        "img" : "",
+        "pg" : "https://my.mail.ru/video/embed/9147716681856974855"
+      }
+      ,
+      "v10" : {
+        "id" : "id2",
+        "idname" : "v10",
+        "img" : "",
+        "pg" : "https://drive.google.com/file/d/1yL6yx3eC4vQGjZcVQLbegzJ0Gr2XEihh/preview?authuser=0"
+      }
 
     }
     

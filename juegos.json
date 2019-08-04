@@ -2,6 +2,18 @@
 
 
 
+  
+  "Piratesm" : {
+    "id" : "id9",
+  "idname" : "Piratesm",
+  "title":"Pirates! The Match-3 <br>  Android > 4  PC",
+  "img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/PiratesTheMatch3Teaser.jpg",
+  "pg" : "https://games.cdn.famobi.com/html5games/p/pirates-the-match-3/v300/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=cbca0811-a161-4040-81ad-29e8f4d8d772&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=015&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fpirates-the-match-3%3Ftechnology%3Dweb"
+  }
+  
+  
+  ,
+
   "kuli" : {
     "id" : "id9",
   "idname" : "kuli",
@@ -95,6 +107,92 @@
 
 
 
+
+  
+"DuoCards" : {
+  "id" : "id9",
+"idname" : "DuoCards",
+"title":"Duo Cards<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DuoCardsTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/d/duo-cards/v230/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a049631f-a44c-4486-8042-0a1170b154d5&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=018&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fduo-cards%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+  
+"PirateCards" : {
+  "id" : "id9",
+"idname" : "PirateCards",
+"title":"Pirate Cards<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/PirateCardsTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/p/pirate-cards/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7ba3cf66-f926-40dc-ba0e-6b1d7204d1b4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=019&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fpirate-cards%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+
+
+  
+"GinRummyClassic" : {
+  "id" : "id9",
+"idname" : "GinRummyClassic",
+"title":"Gin Rummy Classic<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/GinRummyClassicTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/g/gin-rummy-classic/v190/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=ab73af98-2432-4395-bae1-916323c30d93&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=022&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fgin-rummy-classic%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+
+
+
+
+
+
+  
+"Jewelishc" : {
+  "id" : "id9",
+"idname" : "Jewelishc",
+"title":"Jewelish Classic<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Jewelish_Teaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/j/jewelish/v210/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=eb1897ee-630b-4e1d-b273-31a837eb352a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=024&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fjewelish%3Ftechnology%3Dweb"
+}
+
+
+,
+
+
+
+
+
+
+  
+"SprintClubNitro" : {
+  "id" : "id9",
+"idname" : "SprintClubNitro",
+"title":"Sprint Club Nitro<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SprintClubNitroTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/s/sprint-club-nitro/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=22d54936-998a-4d6d-82c1-895792f1c573&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=025&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fsprint-club-nitro%3Ftechnology%3Dweb"
+}
+
+
+,
+"MergeJewels" : {
+  "id" : "id9",
+"idname" : "MergeJewels",
+"title":"Merge Jewels<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MergeJewelsTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/m/merge-jewels/v150/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=3f1d74b9-66ea-44b9-991f-7908c2fee68d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=021&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fmerge-jewels%3Ftechnology%3Dweb"
+}
+
+
+,
 
 "Civilizationswm" : {
   "id" : "id9",

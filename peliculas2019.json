@@ -1,6 +1,18 @@
 {
   
 
+
+  "Polar" : {
+    "vid":"1",
+    "id" : "id11",
+  "idname" : "Polar",
+  "title":"Polarr(2019)",
+  "img" : "https://static.pelisplus.co/movie/cover/original/4366ef0cb8f8dc802f849d010aee79db.jpg",
+  "pg" : "https://drive.google.com/file/d/1CTjTFGm087b4dVz7Tjq5mnu5QvOULvmT/preview"
+  }
+  
+  ,
+
   "ImMother" : {
     "vid":"1",
     "id" : "id11",

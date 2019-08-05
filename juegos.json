@@ -496,6 +496,85 @@
 "pg" : "https://games.cdn.famobi.com/html5games/z/zoo-boom/v160/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=109&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fzoo-boom%3Ftechnology%3Dweb"
 }
 
+,
+
+"FitItQuick" : {
+  "id" : "id9",
+"idname" : "FitItQuick",
+"title":"Fit It Quick <br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FitItQuickTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/f/fit-it-quick/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=539654fd-5ea8-4c05-b648-f4fa3666f0c2&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=034&original_ref="
+}
+
+
+
+,
+
+"FrenchApple" : {
+  "id" : "id9",
+"idname" : "FrenchApple",
+"title":"French Apple Pie - Cooking with Emma<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FrenchApplePieVeganTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/f/french-apple-pie-vegan/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c671bbc4-423a-404d-bd95-7d30a025fc54&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=034&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Ffrench-apple-pie-vegan%3Ftechnology%3Dweb"
+}
+
+
+
+
+
+,
+
+"GlowLines" : {
+  "id" : "id9",
+"idname" : "GlowLines",
+"title":"Glow Lines<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/GlowLinesTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/g/glow-lines/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8557fc8f-26b3-4bc1-a770-d4fa798a30ca&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=036&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fglow-lines%3Ftechnology%3Dweb"
+}
+
+
+
+
+,
+
+"WeddingLily" : {
+  "id" : "id9",
+"idname" : "WeddingLily",
+"title":"Wedding Lily<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WeddingLilyTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/w/wedding-lily/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7fa142fc-fb7a-4fe7-af88-3f1890cfb9c4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=039&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fwedding-lily%3Ftechnology%3Dweb"
+}
+
+
+
+
+
+
+,
+
+"Turbotastic" : {
+  "id" : "id9",
+"idname" : "Turbotastic",
+"title":"Turbotastic<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TurbotasticTeaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/t/turbotastic/9-edc26b/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bc6a49d5-5482-4db5-95c7-af6db7e778cf&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=039&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fturbotastic%3Ftechnology%3Dweb"
+}
+
+
+
+
+
+
+,
+
+"BacCandyland" : {
+  "id" : "id9",
+"idname" : "BacCandyland",
+"title":"Back To Candyland - Episode 1<br>  Android > 4  PC",
+"img" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BackToCandyland1Teaser.jpg",
+"pg" : "https://games.cdn.famobi.com/html5games/b/back-to-candyland-1/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=320dee35-195a-44c6-af24-bab89859fa54&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=039&original_ref=https%3A%2F%2Fgames.famobi.com%2Fbest-games%2Fback-to-candyland-1%3Ftechnology%3Dweb"
+}
+
 
 
 }
